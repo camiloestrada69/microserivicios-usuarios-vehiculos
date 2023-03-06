@@ -5,7 +5,7 @@ spring:
         config:
             server:
                 git:
-                    default-label: circuit-breaker
+                    default-label: json-web-token
                     uri: https://github.com/camiloestrada69/microserivicios-usuarios-vehiculos
                     search-paths: config-data
     application:
