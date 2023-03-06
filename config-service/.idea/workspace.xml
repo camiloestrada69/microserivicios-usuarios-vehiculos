@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b281b04c-8535-4e64-884b-7a39ecb0268f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-data/gateway-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-data/gateway-service.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway-service/gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/gateway-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway-service/gateway-service/src/main/java/com/tutorial/gatewayservice/controller/GatewayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/gateway-service/src/main/java/com/tutorial/gatewayservice/controller/GatewayController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway-service/gateway-service/src/main/java/com/tutorial/gatewayservice/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/gateway-service/src/main/java/com/tutorial/gatewayservice/security/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway-service/gateway-service/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/gateway-service/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../user-service/src/main/java/com/tutorial/userservice/security/UserSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/tutorial/userservice/security/UserSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/resources/bootstrap.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
