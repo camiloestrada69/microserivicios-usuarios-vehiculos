@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b281b04c-8535-4e64-884b-7a39ecb0268f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bike-service/src/main/java/com/tutorial/bikeservice/security/BikeSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-service/src/main/java/com/tutorial/carservice/security/CarSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/tutorial/userservice/feingClients/FeignInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bike-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bike-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-service/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../car-service/src/main/resources/bootstrap.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/src/main/java/com/tutorial/userservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/tutorial/userservice/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user-service/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/resources/bootstrap.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +100,7 @@
       <workItem from="1677959571324" duration="2321000" />
       <workItem from="1678043638843" duration="5942000" />
       <workItem from="1678056474735" duration="4532000" />
-      <workItem from="1678118194417" duration="637000" />
+      <workItem from="1678118194417" duration="2281000" />
     </task>
     <servers />
   </component>
